@@ -48,12 +48,13 @@ int main()
 
 ###### Params:
 
-- `void`: It takes no arguments
+- `void`: It takes no parameters
 
 ###### Available operating systems
 
 | Operating System | `operating_system()` |
 |:---------------- | :------------------- |
+| macOS            | `macOS`              |
 | Window 32        | `win32`              |
 | Window 64        | `win64`              |
 | Unix             | `unix`               |

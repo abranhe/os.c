@@ -1,0 +1,16 @@
+{
+  "name": "operating-system",
+  "version": "1.0.0",
+  "description": "Small C library to know your operating system",
+  "license": "MIT",
+  "keywords": [
+    "os",
+    "operating-system",
+    "tool",
+  ],
+  "repo": "abranhe/os.c",
+  "src": [
+    "os.h",
+    "os.c"
+  ]
+}

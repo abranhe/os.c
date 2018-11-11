@@ -1,10 +1,15 @@
 {
-  "name": "operating-system",
+  "name": "os.c",
   "version": "1.0.0",
   "description": "Small C library to know your operating system",
   "license": "MIT",
   "keywords": [
     "os",
+    "macos",
+    "linux",
+    "windows",
+    "win32",
+    "win64",
     "operating-system",
     "tool",
   ],

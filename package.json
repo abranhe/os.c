@@ -1,6 +1,6 @@
 {
   "name": "os.c",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Small C library to know your operating system",
   "license": "MIT",
   "keywords": [

@@ -47,7 +47,7 @@ int main()
 
 ## API
 
-#### `char * operating_system();`
+#### `char *operating_system(void);`
 
 *Return the operating system you are using.*
 

@@ -6,7 +6,12 @@
 // Copyright (c) Abraham Hernandez <abraham@abranhe.com>
 //
 
-const char * operating_system()
+/**
+ * Return Operating System
+ */
+
+const char 
+*operating_system(void)
 {
     #ifdef _WIN32
     return "win32";

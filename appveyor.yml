@@ -1,6 +1,4 @@
 version: 1.0.{build}
 
-
-# TODO: Make something complex
 build_script:
 - sh: make run-test
